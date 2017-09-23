@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %} Polar Registration{% endblock %}
+{% block header %}Agent Info{% endblock %}
+{% block content %}
+    <form action="/agentproperty" method="post" >
+      {% csrf_token %}
+            {{ form }}
+        <input type="submit" value="add" />
+</form>
+        <table>
+            {% for agent in agentinfo %}
+                <tr><td>{{ agent.first_name }}</td><td>{{ agent.last_name }}</td></tr>
+            {% endfor %}
+        </table>
+{% endblock %}

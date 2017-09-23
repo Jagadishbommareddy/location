@@ -1,0 +1,660 @@
+2017-09-21 08:35:18,041 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,041 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,041 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,041 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,130 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,130 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,131 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:18,131 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:35:28,466 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 714
+2017-09-21 08:35:29,156 [Thread-3    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-21 08:35:29,157 [Thread-3    ] [WARNI] [django.server       ]  "GET /favicon.ico HTTP/1.1" 404 7398
+2017-09-21 08:36:20,561 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,562 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,562 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,562 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,595 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,596 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,596 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:20,596 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:36:26,656 [Thread-3    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 714
+2017-09-21 08:36:28,102 [Thread-2    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x04C2D430>}
+2017-09-21 08:36:28,212 [Thread-2    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 11050
+2017-09-21 08:36:28,223 [Thread-4    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-21 08:36:28,329 [Thread-5    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-21 08:38:43,697 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:38:43,697 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:41:51,534 [Thread-3    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0400D690>}
+2017-09-21 08:43:22,058 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:43:22,058 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:43:22,058 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:43:22,058 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 08:44:51,109 [Thread-7    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0403E4F0>}
+2017-09-21 10:57:41,033 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 10:57:41,034 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 10:57:41,034 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 10:57:41,034 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 10:58:20,934 [Thread-2    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-21 10:58:22,258 [Thread-4    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x03C0CF90>}
+2017-09-21 10:59:11,287 [Thread-11   ] [WARNI] [django.request      ]  Not Found: /agentproperty/
+2017-09-21 10:59:44,292 [Thread-22   ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x04275910>}
+2017-09-21 11:00:13,312 [Thread-28   ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x03BECFD0>}
+2017-09-21 11:00:13,314 [Thread-28   ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;experience;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x03BECFD0>, 'location': <django.forms.formsets.LocationFormFormSet object at 0x0427DD50>, 'address': <django.forms.formsets.AddressFormFormSet object at 0x0427DF10>, 'agentreferal': <django.forms.formsets.AgentReferalFormFormSet object at 0x048DFCF0>}
+2017-09-21 11:00:13,549 [Thread-29   ] [ERROR] [django.request      ]  Internal Server Error: /agents/
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\viewsets.py", line 90, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\views.py", line 489, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\views.py", line 449, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\views.py", line 486, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\mixins.py", line 48, in list
+    return Response(serializer.data)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 739, in data
+    ret = super(ListSerializer, self).data
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 263, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 657, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 657, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 484, in to_representation
+    fields = self._readable_fields
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\utils\functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 378, in _readable_fields
+    field for field in self.fields.values()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 364, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 1017, in get_fields
+    source, info, model, depth
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 1151, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 1263, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `experence` is not valid for model `Agent`.
+2017-09-21 11:01:18,213 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:18,213 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:18,214 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:18,214 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:44,312 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:44,312 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:44,313 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:01:44,313 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:20,993 [MainThread  ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:20,994 [MainThread  ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:20,994 [MainThread  ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:20,994 [MainThread  ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:28,848 [MainThread  ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:28,848 [MainThread  ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:28,848 [MainThread  ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:28,848 [MainThread  ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:39,418 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:39,418 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:39,419 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:39,419 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:02:42,855 [Thread-4    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x04C7F830>}
+2017-09-21 11:03:17,006 [Thread-7    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x039E26F0>}
+2017-09-21 11:03:17,006 [Thread-7    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x039E26F0>, 'location': <django.forms.formsets.LocationFormFormSet object at 0x04C9CB10>, 'address': <django.forms.formsets.AddressFormFormSet object at 0x04CBD510>, 'agentreferal': <django.forms.formsets.AgentReferalFormFormSet object at 0x04CBD630>}
+2017-09-21 11:03:17,225 [Thread-8    ] [ERROR] [django.request      ]  Internal Server Error: /agents/
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\viewsets.py", line 90, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\views.py", line 489, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\views.py", line 449, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\views.py", line 486, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\mixins.py", line 48, in list
+    return Response(serializer.data)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 739, in data
+    ret = super(ListSerializer, self).data
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 263, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 657, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 657, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 484, in to_representation
+    fields = self._readable_fields
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\utils\functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 378, in _readable_fields
+    field for field in self.fields.values()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 364, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 1017, in get_fields
+    source, info, model, depth
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 1151, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\rest_framework\serializers.py", line 1263, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `experence` is not valid for model `Agent`.
+2017-09-21 11:05:05,904 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,905 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,905 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,905 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,910 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,911 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,911 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:05:05,911 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:55:52,554 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:55:52,564 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:55:52,565 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:55:52,565 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 11:55:55,560 [Thread-5    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-21 12:03:01,064 [Thread-7    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x05225990>}
+2017-09-21 12:03:33,738 [Thread-10   ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0523DBF0>}
+2017-09-21 12:03:33,738 [Thread-10   ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0523DBF0>, 'location': <django.forms.formsets.LocationFormFormSet object at 0x05239090>, 'address': <django.forms.formsets.AddressFormFormSet object at 0x05220070>, 'agentreferal': <django.forms.formsets.AgentReferalFormFormSet object at 0x05220930>}
+2017-09-21 12:08:09,914 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:08:09,914 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:08:09,915 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:08:09,915 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:09:59,936 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:09:59,936 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:09:59,936 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:09:59,937 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:10:08,529 [Thread-3    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x049FF630>}
+2017-09-21 12:10:52,899 [Thread-6    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0424B610>}
+2017-09-21 12:10:52,899 [Thread-6    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0424B610>, 'location': <django.forms.formsets.LocationFormFormSet object at 0x04A5EC50>, 'address': <django.forms.formsets.AddressFormFormSet object at 0x04A3C710>, 'agentreferal': <django.forms.formsets.AgentReferalFormFormSet object at 0x04A3C7F0>}
+2017-09-21 12:31:32,780 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:32,780 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:32,781 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:32,781 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:48,655 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:48,655 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:48,656 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:31:48,656 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:32:43,012 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:32:43,012 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:32:43,012 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:32:43,012 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:02,688 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:02,688 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:02,688 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:02,688 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:50,399 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:50,400 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:50,400 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:50,400 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-21 12:34:50,400 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-21 12:35:19,079 [Thread-3    ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-21 12:36:03,184 [Thread-6    ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-21 12:36:03,184 [Thread-6    ] [INFO ] [Realestate4.logger  ]  i m here 2
+2017-09-21 12:36:03,185 [Thread-6    ] [DEBUG] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0494AF90>, 'location': <django.forms.formsets.LocationFormFormSet object at 0x0515ACD0>, 'address': <django.forms.formsets.AddressFormFormSet object at 0x0514FB30>, 'agentreferal': <django.forms.formsets.AgentReferalFormFormSet object at 0x0514FA50>}
+2017-09-21 12:36:03,185 [Thread-6    ] [INFO ] [Realestate4.logger  ]  i m here 3
+
+2017-09-22 04:44:52,052 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:44:52,074 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:44:52,074 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:44:52,074 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:44:52,075 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 04:46:59,249 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:46:59,250 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:46:59,250 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:46:59,250 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:46:59,251 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 04:47:53,230 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:47:53,230 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:47:53,230 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:47:53,231 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:47:53,231 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 04:47:56,010 [Thread-3    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-22 04:47:58,427 [Thread-4    ] [INFO ] [Realestate4.logger  ]  {'form': <AgentForm bound=False, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x03E7E370>}
+2017-09-22 04:48:46,691 [Thread-7    ] [INFO ] [Realestate4.logger  ]  {'form': <AgentForm bound=True, valid=Unknown, fields=(first_name;last_name;age;education;company_name;specialization;agent_notes;mobile_number;phone_number;email_id;media_name;property_type)>, 'view': <Tagent4.views.AgentAddrLocArefCreate object at 0x0497BCB0>}
+2017-09-22 04:48:46,692 [Thread-7    ] [INFO ] [Realestate4.logger  ]  i m here 2
+2017-09-22 04:48:46,692 [Thread-7    ] [INFO ] [Realestate4.logger  ]  i m here 3
+2017-09-22 04:49:43,174 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:49:43,174 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:49:43,175 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:49:43,175 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:49:43,175 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 04:51:45,458 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:51:45,458 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:51:45,458 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:51:45,458 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 04:51:45,458 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:00:36,244 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:00:36,245 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:00:36,245 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:00:36,245 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:00:36,246 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:01:03,276 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2105
+2017-09-22 05:01:03,373 [Thread-3    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-22 05:01:03,374 [Thread-3    ] [WARNI] [django.server       ]  "GET /favicon.ico HTTP/1.1" 404 7398
+2017-09-22 05:01:05,482 [Thread-4    ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:01:05,571 [Thread-4    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 10976
+2017-09-22 05:01:05,580 [Thread-5    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:01:05,650 [Thread-6    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:01:56,796 [Thread-7    ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:01:56,797 [Thread-7    ] [INFO ] [Realestate4.logger  ]  i m here 2
+2017-09-22 05:01:56,797 [Thread-7    ] [INFO ] [Realestate4.logger  ]  i m here 3
+2017-09-22 05:01:57,407 [Thread-7    ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 302 0
+2017-09-22 05:01:57,512 [Thread-8    ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16128
+2017-09-22 05:04:13,749 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:04:13,749 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:04:13,749 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:04:13,750 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:04:13,750 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:04:15,702 [Thread-9    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2378
+2017-09-22 05:04:18,074 [Thread-10   ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:04:18,158 [Thread-10   ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 10976
+2017-09-22 05:04:18,167 [Thread-11   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:04:18,258 [Thread-12   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:05:15,372 [Thread-13   ] [INFO ] [Realestate4.logger  ]  first_name is valid
+2017-09-22 05:05:15,373 [Thread-13   ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:05:15,373 [Thread-13   ] [INFO ] [Realestate4.logger  ]  i m here 2
+2017-09-22 05:05:15,459 [Thread-13   ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 200 11831
+2017-09-22 05:05:15,469 [Thread-14   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:05:15,528 [Thread-15   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:11:14,440 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,456 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,456 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,456 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,456 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:11:14,490 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,490 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,491 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,491 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:11:14,491 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:11:26,315 [Thread-4    ] [INFO ] [Realestate4.logger  ]  mobile_no validation
+2017-09-22 05:11:26,315 [Thread-4    ] [INFO ] [Realestate4.logger  ]  phone_number validation
+2017-09-22 05:11:26,315 [Thread-4    ] [INFO ] [Realestate4.logger  ]  first_name validation
+2017-09-22 05:11:26,316 [Thread-4    ] [INFO ] [Realestate4.logger  ]  last_name validation
+2017-09-22 05:11:26,316 [Thread-4    ] [INFO ] [Realestate4.logger  ]  specialization validation 
+2017-09-22 05:11:26,317 [Thread-4    ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:11:26,317 [Thread-4    ] [INFO ] [Realestate4.logger  ]  i m here 2
+2017-09-22 05:11:26,369 [Thread-4    ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 05:11:26,369 [Thread-4    ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 05:11:26,369 [Thread-4    ] [INFO ] [Realestate4.logger  ]  landmark validation 
+2017-09-22 05:11:26,396 [Thread-4    ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 05:11:26,397 [Thread-4    ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 05:11:26,414 [Thread-4    ] [INFO ] [Realestate4.logger  ]  name validation 
+2017-09-22 05:11:26,429 [Thread-4    ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 200 11831
+2017-09-22 05:11:26,440 [Thread-3    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:11:26,516 [Thread-2    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:16:42,664 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,665 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,665 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,665 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,665 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:16:42,694 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,694 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,695 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,695 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:16:42,695 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:16:45,838 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2378
+2017-09-22 05:16:49,696 [Thread-4    ] [INFO ] [Realestate4.logger  ]  i m here 5
+2017-09-22 05:16:49,821 [Thread-4    ] [INFO ] [django.server       ]  "GET /agent/7/ HTTP/1.1" 200 17042
+2017-09-22 05:16:49,832 [Thread-3    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:16:49,902 [Thread-5    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:17:10,303 [Thread-6    ] [INFO ] [Realestate4.logger  ]  i m here 5
+2017-09-22 05:17:10,446 [Thread-6    ] [INFO ] [django.server       ]  "POST /agent/7/ HTTP/1.1" 302 0
+2017-09-22 05:17:10,504 [Thread-7    ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16129
+2017-09-22 05:17:50,226 [Thread-8    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2379
+2017-09-22 05:17:51,482 [Thread-9    ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:17:51,566 [Thread-9    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 10976
+2017-09-22 05:17:51,581 [Thread-10   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:17:51,680 [Thread-11   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:18:23,997 [Thread-12   ] [INFO ] [Realestate4.logger  ]  i m here 1
+2017-09-22 05:18:23,997 [Thread-12   ] [INFO ] [Realestate4.logger  ]  first_name
+2017-09-22 05:18:23,998 [Thread-12   ] [INFO ] [Realestate4.logger  ]  i m here 3
+2017-09-22 05:18:24,206 [Thread-12   ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 302 0
+2017-09-22 05:18:24,262 [Thread-13   ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16845
+2017-09-22 05:19:54,514 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,514 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:19:54,515 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:19:54,516 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:26:22,610 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,611 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,611 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,611 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,611 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:26:22,711 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,757 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,758 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,758 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:26:22,758 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  i m here 4
+2017-09-22 05:26:27,998 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2645
+2017-09-22 05:26:38,827 [Thread-5    ] [INFO ] [Realestate4.logger  ]  agent property
+2017-09-22 05:26:38,838 [Thread-5    ] [INFO ] [django.server       ]  "GET /agentproperty HTTP/1.1" 200 958
+2017-09-22 05:26:43,177 [Thread-6    ] [INFO ] [Realestate4.logger  ]  agent property
+2017-09-22 05:26:43,178 [Thread-6    ] [INFO ] [Realestate4.logger  ]  agent property valid
+2017-09-22 05:26:43,265 [Thread-6    ] [INFO ] [django.server       ]  "POST /agentproperty HTTP/1.1" 200 970
+2017-09-22 05:31:44,440 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,440 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,441 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,441 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,441 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 05:31:44,443 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,443 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,443 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,444 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:31:44,444 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 05:32:42,763 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,763 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,764 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,764 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,764 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,764 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,764 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,764 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 05:32:42,765 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 05:32:42,765 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 05:32:48,125 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2645
+2017-09-22 05:32:49,369 [Thread-3    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 05:32:49,461 [Thread-3    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 11026
+2017-09-22 05:32:49,472 [Thread-4    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:32:49,542 [Thread-5    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:33:25,219 [Thread-6    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 05:33:25,219 [Thread-6    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate requst is pass
+2017-09-22 05:33:25,220 [Thread-6    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data is valid
+2017-09-22 05:33:25,850 [Thread-6    ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 302 0
+2017-09-22 05:33:25,943 [Thread-7    ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 17651
+2017-09-22 05:34:02,660 [Thread-8    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2917
+2017-09-22 05:34:06,979 [Thread-9    ] [INFO ] [django.server       ]  "GET /agent/9/delete/ HTTP/1.1" 200 829
+2017-09-22 05:34:08,321 [Thread-10   ] [INFO ] [django.server       ]  "POST /agent/9/delete/ HTTP/1.1" 302 0
+2017-09-22 05:34:08,379 [Thread-11   ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16929
+2017-09-22 05:34:33,916 [Thread-12   ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2645
+2017-09-22 05:34:36,430 [Thread-13   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefUpdate data
+2017-09-22 05:34:36,557 [Thread-13   ] [INFO ] [django.server       ]  "GET /agent/8/ HTTP/1.1" 200 17079
+2017-09-22 05:34:36,567 [Thread-14   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:34:36,642 [Thread-15   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 05:35:03,324 [Thread-16   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefUpdate data
+2017-09-22 05:35:03,324 [Thread-16   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefUpdate requst is pass
+2017-09-22 05:35:03,325 [Thread-16   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefUpdate data is valid
+2017-09-22 05:35:03,745 [Thread-16   ] [INFO ] [django.server       ]  "POST /agent/8/ HTTP/1.1" 302
+2017-09-22 05:35:03,828 [Thread-17   ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16930
+2017-09-22 06:16:07,718 [Thread-18   ] [INFO ] [django.server       ]  "GET /agents/?format=json HTTP/1.1" 200 2013
+2017-09-22 06:16:45,154 [Thread-19   ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2646
+2017-09-22 06:16:45,250 [Thread-20   ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-22 06:16:45,251 [Thread-20   ] [WARNI] [django.server       ]  "GET /favicon.ico HTTP/1.1" 404 7398
+2017-09-22 06:16:49,260 [Thread-21   ] [INFO ] [django.server       ]  "GET /agent/8/delete/ HTTP/1.1" 200 829
+2017-09-22 06:16:50,645 [Thread-22   ] [INFO ] [django.server       ]  "POST /agent/8/delete/ HTTP/1.1" 302 0
+2017-09-22 06:16:50,765 [Thread-23   ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16213
+2017-09-22 06:16:59,883 [Thread-24   ] [INFO ] [django.server       ]  "GET /agents/?format=json HTTP/1.1" 200 1742
+2017-09-22 06:26:18,215 [Thread-30   ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2379
+2017-09-22 09:16:41,421 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:16:41,421 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:16:41,421 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:16:41,421 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:16:41,422 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 09:16:45,029 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2379
+2017-09-22 09:16:45,173 [Thread-3    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-22 09:16:45,174 [Thread-3    ] [WARNI] [django.server       ]  "GET /favicon.ico HTTP/1.1" 404 7398
+2017-09-22 09:16:46,825 [Thread-4    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:16:46,959 [Thread-4    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 11026
+2017-09-22 09:16:46,988 [Thread-5    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:16:47,056 [Thread-6    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:32:55,315 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:32:55,315 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:32:55,316 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:32:55,316 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:32:55,316 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 09:33:51,840 [Thread-7    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2379
+2017-09-22 09:33:51,954 [Thread-8    ] [WARNI] [django.request      ]  Not Found: /favicon.ico
+2017-09-22 09:33:51,954 [Thread-8    ] [WARNI] [django.server       ]  "GET /favicon.ico HTTP/1.1" 404 7398
+2017-09-22 09:33:54,040 [Thread-9    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:33:54,130 [Thread-9    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 11026
+2017-09-22 09:33:54,138 [Thread-10   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:33:54,211 [Thread-11   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:34:55,071 [Thread-12   ] [INFO ] [Realestate4.logger  ]  mobile_no validation
+2017-09-22 09:34:55,071 [Thread-12   ] [INFO ] [Realestate4.logger  ]  phone_number validation
+2017-09-22 09:34:55,071 [Thread-12   ] [INFO ] [Realestate4.logger  ]  first_name validation
+2017-09-22 09:34:55,071 [Thread-12   ] [INFO ] [Realestate4.logger  ]  last_name validation
+2017-09-22 09:34:55,072 [Thread-12   ] [INFO ] [Realestate4.logger  ]  specialization validation 
+2017-09-22 09:34:55,072 [Thread-12   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:34:55,072 [Thread-12   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate requst is pass
+2017-09-22 09:34:55,120 [Thread-12   ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 09:34:55,120 [Thread-12   ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 09:34:55,120 [Thread-12   ] [INFO ] [Realestate4.logger  ]  landmark validation 
+2017-09-22 09:34:55,143 [Thread-12   ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 09:34:55,143 [Thread-12   ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 09:34:55,161 [Thread-12   ] [INFO ] [Realestate4.logger  ]  name validation 
+2017-09-22 09:34:55,167 [Thread-12   ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 200 11892
+2017-09-22 09:34:55,183 [Thread-13   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:34:55,248 [Thread-14   ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:36:43,356 [Thread-15   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:36:43,356 [Thread-15   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate requst is pass
+2017-09-22 09:36:43,356 [Thread-15   ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data is valid
+2017-09-22 09:36:43,573 [Thread-15   ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 302 0
+2017-09-22 09:36:43,634 [Thread-16   ] [INFO ] [django.server       ]  "GET /agents/ HTTP/1.1" 200 16982
+2017-09-22 09:39:47,060 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,060 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,060 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,060 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,061 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,061 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,061 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,061 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:39:47,061 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 09:39:47,061 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 09:39:52,336 [Thread-2    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2693
+2017-09-22 09:39:53,544 [Thread-3    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:39:53,636 [Thread-3    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 11026
+2017-09-22 09:39:53,645 [Thread-4    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:39:53,711 [Thread-5    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:40:48,471 [Thread-7    ] [INFO ] [Realestate4.logger  ]  52 validation failed
+2017-09-22 09:40:48,472 [Thread-7    ] [INFO ] [Realestate4.logger  ]  last_name validation
+2017-09-22 09:40:48,472 [Thread-7    ] [INFO ] [Realestate4.logger  ]  specialization validation 
+2017-09-22 09:40:48,472 [Thread-7    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:40:48,473 [Thread-7    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate requst is pass
+2017-09-22 09:40:48,519 [Thread-7    ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 09:40:48,519 [Thread-7    ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 09:40:48,519 [Thread-7    ] [INFO ] [Realestate4.logger  ]  landmark validation 
+2017-09-22 09:40:48,544 [Thread-7    ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 09:40:48,544 [Thread-7    ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 09:40:48,560 [Thread-7    ] [INFO ] [Realestate4.logger  ]  name validation 
+2017-09-22 09:40:48,567 [Thread-7    ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 200 11779
+2017-09-22 09:40:48,579 [Thread-8    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:40:48,633 [Thread-9    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:42:28,168 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,168 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,169 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,169 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,169 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 09:42:28,173 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,174 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,174 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,174 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 09:42:28,174 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 09:42:31,898 [Thread-5    ] [INFO ] [django.server       ]  "GET / HTTP/1.1" 200 2693
+2017-09-22 09:42:33,015 [Thread-4    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:42:33,117 [Thread-4    ] [INFO ] [django.server       ]  "GET /agent/add/ HTTP/1.1" 200 11026
+2017-09-22 09:42:33,126 [Thread-3    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:42:33,190 [Thread-2    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:43:27,254 [Thread-6    ] [INFO ] [Realestate4.logger  ]  phone_number validation
+2017-09-22 09:43:27,255 [Thread-6    ] [INFO ] [Realestate4.logger  ]  first_name :[8555] validation failed
+2017-09-22 09:43:27,255 [Thread-6    ] [INFO ] [Realestate4.logger  ]  last_name validation
+2017-09-22 09:43:27,255 [Thread-6    ] [INFO ] [Realestate4.logger  ]  specialization validation 
+2017-09-22 09:43:27,256 [Thread-6    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate data
+2017-09-22 09:43:27,256 [Thread-6    ] [INFO ] [Realestate4.logger  ]  AgentAddrLocArefCreate requst is pass
+2017-09-22 09:43:27,301 [Thread-6    ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 09:43:27,302 [Thread-6    ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 09:43:27,302 [Thread-6    ] [INFO ] [Realestate4.logger  ]  landmark validation 
+2017-09-22 09:43:27,325 [Thread-6    ] [INFO ] [Realestate4.logger  ]  city validation
+2017-09-22 09:43:27,325 [Thread-6    ] [INFO ] [Realestate4.logger  ]  state validation 
+2017-09-22 09:43:27,342 [Thread-6    ] [INFO ] [Realestate4.logger  ]  name validation 
+2017-09-22 09:43:27,348 [Thread-6    ] [INFO ] [django.server       ]  "POST /agent/add/ HTTP/1.1" 200 11835
+2017-09-22 09:43:27,359 [Thread-7    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 09:43:27,413 [Thread-8    ] [WARNI] [django.server       ]  "GET /static/formset/jquery.formset.js HTTP/1.1" 404 1688
+2017-09-22 10:02:46,915 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,916 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,916 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,916 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,916 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,916 [Dummy-1     ] [DEBUG] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,917 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,917 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:02:46,917 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:02:46,917 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:43:52,443 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:43:52,443 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:43:52,443 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:43:52,443 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:45:05,854 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:45:05,854 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:45:05,855 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:45:29,579 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:45:29,579 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:45:43,018 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:45:43,019 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:45:43,019 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  agent delete
+2017-09-22 10:46:04,429 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:46:04,429 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:46:04,429 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:46:37,602 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:46:37,602 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:46:37,603 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:46:37,603 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:49:13,650 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:49:13,651 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:49:13,651 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:49:13,651 [Dummy-1     ] [CRITI] [Realestate4.logger  ]  agent delete
+2017-09-22 10:50:26,851 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:50:26,852 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:50:26,852 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:50:26,852 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  agent delete
+2017-09-22 10:50:52,827 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:50:52,828 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:50:52,828 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:50:52,828 [Dummy-1     ] [WARNI] [Realestate4.logger  ]  agent delete
+2017-09-22 10:51:07,485 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:51:07,485 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:51:07,486 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:51:07,486 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  agent delete
+2017-09-22 10:51:21,860 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:51:21,860 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:51:21,860 [Dummy-1     ] [INFO ] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:59:23,993 [Dummy-1     ] [CRITI] [Realestate4.logger  ]  agent delete
+2017-09-22 10:59:51,246 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-22 10:59:51,246 [Dummy-1     ] [CRITI] [Realestate4.logger  ]  agent delete
+2017-09-22 11:00:17,328 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'last_name', 'age', 'education', 'company_name', 'specialization', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type']
+2017-09-24 09:36:11,346 [MainThread  ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:36:17,317 [MainThread  ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:37:49,885 [MainThread  ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:38:22,177 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:39:06,712 [Thread-12   ] [ERROR] [django.request      ]  Internal Server Error: /agent/add/
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 213, in get
+    return super(BaseCreateView, self).get(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 174, in get
+    return self.render_to_response(self.get_context_data())
+  File "C:\Users\admin\Desktop\Realestate4\Tagent4\views.py", line 74, in get_context_data
+    data = super(AgentAddrLocArefCreate, self).get_context_data(**kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 93, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 44, in get_form
+    form_class = self.get_form_class()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 132, in get_form_class
+    return model_forms.modelform_factory(model, fields=self.fields)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\forms\models.py", line 558, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\forms\models.py", line 272, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (experience) specified for Agent
+2017-09-24 09:39:06,808 [Thread-12   ] [ERROR] [django.server       ]  "GET /agent/add/ HTTP/1.1" 500 111418
+2017-09-24 09:39:56,542 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:48:36,235 [Thread-2    ] [ERROR] [django.request      ]  Internal Server Error: /agent/add/
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 213, in get
+    return super(BaseCreateView, self).get(request, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 174, in get
+    return self.render_to_response(self.get_context_data())
+  File "C:\Users\admin\Desktop\Realestate4\Tagent4\views.py", line 74, in get_context_data
+    data = super(AgentAddrLocArefCreate, self).get_context_data(**kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 93, in get_context_data
+    kwargs['form'] = self.get_form()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 44, in get_form
+    form_class = self.get_form_class()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\views\generic\edit.py", line 132, in get_form_class
+    return model_forms.modelform_factory(model, fields=self.fields)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\forms\models.py", line 558, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\forms\models.py", line 272, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (experience) specified for Agent
+2017-09-24 09:48:36,294 [Thread-2    ] [ERROR] [django.server       ]  "GET /agent/add/ HTTP/1.1" 500 111124
+2017-09-24 09:50:35,382 [MainThread  ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:51:29,846 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:52:25,485 [MainThread  ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:52:31,460 [MainThread  ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 09:53:05,952 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:00:50,753 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:00:50,755 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:01:20,424 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:01:20,424 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:01:27,226 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:01:27,226 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:02:00,438 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:02:00,454 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:02:15,316 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:04:43,915 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:04:43,931 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:04:44,025 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:05:11,753 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:05:11,815 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:05:11,862 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:05:44,571 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:05:44,598 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:05:44,683 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:06:46,850 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:06:46,858 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:06:46,874 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:07:38,145 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:07:38,198 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:07:38,202 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:08:07,248 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:08:07,316 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']
+2017-09-24 10:08:07,320 [Dummy-1     ] [ERROR] [Realestate4.logger  ]  ['first_name', 'first_nameage', 'education', 'company_name', 'specialization', 'experience', 'agent_notes', 'mobile_number', 'phone_number', 'email_id', 'media_name', 'property_type', 'location']

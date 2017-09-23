@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{% endblock %}
+{% block content %}
+
+    <h2>Here are all agents: </h2>
+    <div>
+        <ul>
+            {% for agent in object_list %}
+                <li>{{ agent.first_name }} {{ agent.last_name }} {{agent.age}} {{agent.education}} {{agent.company_name}} {{ agent.specialization }} {{ agent.experience }} {{agent.agent_notes}}
+                    {{ agent.mobile_number}} {{ agent.phone_number}} {{ agent.email_id}} {{ agent.media_name}} {{ agent.property_type }} {{ agent.location }}| <a
+                        href="{% url 'agent-update' agent.pk %}">edit</a>
+                    <a href="{% url 'agent-delete' agent.pk %}">delete</a>
+                </li>
+            {% empty %}
+                <li>No agent yet.</li>
+            {% endfor %}
+
+        </ul>
+        <p>
+            <a href="{% url 'agent-add' %}">add a agent</a>
+        </p>
+    </div>
+{% endblock %}
